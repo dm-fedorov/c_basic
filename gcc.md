@@ -1,1 +1,0 @@
-![](https://raw.githubusercontent.com/dm-fedorov/c_basic/master/pic/gcc.jpg)
