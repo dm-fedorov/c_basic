@@ -5,3 +5,4 @@
 - Компиляторы (Ахо, Сети, Ульман) 
 - GCC: The Complete Reference. Arthur Griffith
 - Bryant R., O'Hallaron D. - Computer Systems. A Programmer's Perspective 
+- [Теория компиляции](https://ps-group.github.io/compilers/)
