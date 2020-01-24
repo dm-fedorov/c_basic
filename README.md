@@ -17,6 +17,8 @@
 
 - [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 
+- [Исследование компиляторов онлайн](https://godbolt.org)
+
 ## Материалы для изучения языка C++
 
 - **must read** [учебник Столярова А.В. по С++](http://www.stolyarov.info/books/pdf/cppintro5.pdf)
