@@ -4,11 +4,13 @@
 
 Если в ОС Windows не установлено, то скачиваем и устанавливаем:
 
-- версию, не требующую прав администратора  [codeblocks-17.12mingw-nosetup.zip](http://sourceforge.net/projects/codeblocks/files/Binaries/17.12/Windows/codeblocks-17.12mingw-nosetup.zip)
+- версию, *не требующую прав администратора*  [codeblocks-17.12mingw-nosetup.zip](http://sourceforge.net/projects/codeblocks/files/Binaries/17.12/Windows/codeblocks-17.12mingw-nosetup.zip) Эту версию можно запускать с USB накопителя.
 
-- версию, требующую права администратора [codeblocks-17.12mingw-setup.exe](http://sourceforge.net/projects/codeblocks/files/Binaries/17.12/Windows/codeblocks-17.12mingw-setup.exe)
+- версию, *требующую права администратора* [codeblocks-17.12mingw-setup.exe](http://sourceforge.net/projects/codeblocks/files/Binaries/17.12/Windows/codeblocks-17.12mingw-setup.exe)
 
 В Mac OS лучше использовать консоль с компилятором gcc/clang и любимый текстовый редактор.
+
+- Инструкция по созданию консольного проекта на языке С.
 
 ## Материалы для изучения языка C
 - [Курс молодого бойца от МФТИ = видео + текст](http://cs.mipt.ru/c_intro)
