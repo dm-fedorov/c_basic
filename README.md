@@ -21,6 +21,10 @@
 
 - [K&R (1978 г.) в качестве справочника](http://givi.olnd.ru/kr/)
 
+- В.В. Подбельский и С.С.Фомин - "Программирование на языке Си"
+
+- Стивен Прата. "Язык программирования C. Лекции и упражнения, 6-е издание".
+
 - из серии *Head First* "Изучаем программирование на C"
 
 - "Язык С в XXI веке"
@@ -29,7 +33,13 @@
 
 - [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 
+- [Примерный перечень вопросов по Си](https://github.com/dm-fedorov/c_basic/blob/master/%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%BF%D0%BE%20%D0%A1.md)
+
 - [Исследование компиляторов онлайн](https://godbolt.org)
+
+- [История языка Си](https://habr.com/ru/post/114588/)
+
+- [Зачем изучать язык Си?](http://acm.mipt.ru/twiki/bin/view/Cintro/ReasonToLearnC)
 
 ## Материалы для самостоятельного изучения языка C++
 
