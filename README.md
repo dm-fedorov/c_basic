@@ -15,6 +15,8 @@
 ## Материалы для изучения языка C
 - [Курс молодого бойца от МФТИ = видео + текст](http://cs.mipt.ru/c_intro)
 
+- [только видео](https://www.youtube.com/playlist?list=PLRDzFCPr95fLjzcv6nNdjMu_9RcZgIM9U)
+
 **must read** 
 
 - [Программирование: введение в профессию. Том 1: азы программирования](http://www.stolyarov.info/books/pdf/progintro_vol1.pdf)
@@ -28,6 +30,8 @@
 - Стивен Прата. "Язык программирования C. Лекции и упражнения, 6-е издание".
 
 - Head First. "Изучаем программирование на C".
+
+- Дейтел. "Как программировать на С, 7-издание".
 
 - [шпаргалка по С](http://dfedorov.spb.ru/c/CRefCard.v2.2.pdf)
 
