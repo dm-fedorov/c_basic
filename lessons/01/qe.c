@@ -11,7 +11,7 @@ int main()
 {
     double p, q, r, d;
     int n;
-    n = scanf("%lf %lf %lf", &p, &q, &r); // & - операция взятия адреса
+    n = scanf("%lf %lf %lf", &p, &q, &r); /* & - операция взятия адреса */
     if(n != 3) {
         printf("Error: wrong input.\n");
         return 1;
