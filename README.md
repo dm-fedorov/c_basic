@@ -8,7 +8,7 @@
 
 - версию, *требующую права администратора* [codeblocks-17.12mingw-setup.exe](http://sourceforge.net/projects/codeblocks/files/Binaries/17.12/Windows/codeblocks-17.12mingw-setup.exe)
 
-В Mac OS лучше использовать консоль с компилятором gcc/clang и любимый текстовый редактор.
+В Mac OS лучше использовать консоль с компилятором gcc/clang и ваш любимый текстовый редактор ;^)
 
 [Инструкция по созданию консольного проекта на языке С](http://dfedorov.spb.ru/codeblock.pdf)
 
@@ -26,6 +26,8 @@
 - [шпаргалка по С - весь синтаксис](http://dfedorov.spb.ru/c/CRefCard.v2.2.pdf)
 
 **Дополнительно**
+
+- [Как создать репозиторий на github](https://pycode.ru/git/)
 
 - [Примерный перечень вопросов по Си](https://github.com/dm-fedorov/c_basic/blob/master/%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%BF%D0%BE%20%D0%A1.md)
 
