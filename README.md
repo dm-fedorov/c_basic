@@ -23,6 +23,8 @@
 
 - [Стандарт K&R (1978 г.) в качестве справочника](http://givi.olnd.ru/kr/)
 
+- [Дейтел про Си](https://drive.google.com/drive/folders/1R6-JoO3Ws9UGanLNGD8RgjLj-ZZn5mtw?usp=sharing)
+
 - [шпаргалка по С - весь синтаксис](http://dfedorov.spb.ru/c/CRefCard.v2.2.pdf)
 
 **Дополнительно**
