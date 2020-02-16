@@ -9,7 +9,7 @@ int main()
    counter = 1;
 
    /* processing phase */
-   while (counter <= 10) {
+   while(counter <= 10) {
       printf("Enter grade: ");
       scanf("%d", &grade);
       total = total + grade;

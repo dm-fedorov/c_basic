@@ -18,7 +18,7 @@ int main()
        return 1;
    }
 
-   while (grade != -1) {
+   while(grade != -1) {
       total += grade;
       counter += 1;
       printf("Enter grade, -1 to end: ");
@@ -30,7 +30,7 @@ int main()
    }
 
    /* termination phase */
-   if (counter != 0) {
+   if(counter != 0) {
       average = (double) total / counter;
       printf("Class average is %.2f\n", average);
    }
