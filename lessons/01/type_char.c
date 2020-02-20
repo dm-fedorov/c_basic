@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <limits.h> /* http://scc-forge.lancaster.ac.uk/open/char/types/ints */
 
-int main(){
+int main()
+{
 
   signed char ch = 126;
 
