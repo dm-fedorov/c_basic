@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Теория**
 
 - [Типы данных в языке Си](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html#Primitive-Types)
@@ -5,6 +6,15 @@
 
 
 **Практические задания**
+=======
+## Теория по теме занятия
+
+- [Типы данных в языке Си](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%82%D0%B8%D0%BF%D0%BE%D0%B2_%D0%A1%D0%B8)
+
+- http://scc-forge.lancaster.ac.uk/open/char/types/
+
+## Практические задания
+>>>>>>> ca29cef1f071bd1565b34c019eca9e28f2ef3765
 
 1. Вычислите среднее арифметическое пяти целых значений, введенных
 с клавиатуры.

@@ -10,6 +10,8 @@
 
 В Mac OS лучше использовать консоль с компилятором gcc/clang и ваш любимый текстовый редактор ;^)
 
+В качестве стандарта языка Си используем [c90](http://scc-forge.lancaster.ac.uk/open/char/versions/std-c90).
+
 [Инструкция по созданию консольного проекта на языке С](http://dfedorov.spb.ru/codeblock.pdf)
 
 ## Основные материалы для изучения языка Си
@@ -23,13 +25,13 @@
 
 - [Стандарт K&R (1978 г.) в качестве справочника](http://givi.olnd.ru/kr/)
 
+- [Дейтел про Си](https://drive.google.com/drive/folders/1R6-JoO3Ws9UGanLNGD8RgjLj-ZZn5mtw?usp=sharing)
+
 - [шпаргалка по С - весь синтаксис](http://dfedorov.spb.ru/c/CRefCard.v2.2.pdf)
 
 **Дополнительно**
 
 - [Как создать репозиторий на github](https://pycode.ru/git/)
-
-- [Общее про язык Си](https://github.com/dm-fedorov/c_basic/blob/master/%D0%9E%D0%B1%D1%89%D0%B5%D0%B5%20%D0%BF%D1%80%D0%BE%20%D0%A1%D0%B8.md)
 
 - [Примерный перечень вопросов по Си](https://github.com/dm-fedorov/c_basic/blob/master/%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%BF%D0%BE%20%D0%A1.md)
 
