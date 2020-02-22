@@ -11,6 +11,6 @@ int main()
         return 1;
     }
 
-    printf("Average = %lf\n", (a + b + c + d + e)/5);
+    printf("Average = %f\n", (a + b + c + d + e)/5);
     return 0;
 }

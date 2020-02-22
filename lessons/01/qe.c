@@ -27,6 +27,6 @@ int main()
         return 0;
     }
     d = sqrt(d);
-    printf("%.5lf %.5lf\n", (-q-d)/(2*p), (-q+d)/(2*p));
+    printf("%.5f %.5f\n", (-q-d)/(2*p), (-q+d)/(2*p));
     return 0;
 }
