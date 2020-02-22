@@ -4,11 +4,13 @@
 
 Если в ОС Windows не установлено, то скачиваем и устанавливаем:
 
-- версию, *не требующую прав администратора*  [codeblocks-17.12mingw-nosetup.zip](http://sourceforge.net/projects/codeblocks/files/Binaries/17.12/Windows/codeblocks-17.12mingw-nosetup.zip) Эту версию можно запускать с USB накопителя.
+- версию, *не требующую прав администратора*  [codeblocks-17.12mingw-nosetup.zip](http://sourceforge.net/projects/codeblocks/files/Binaries/17.12/Windows/codeblocks-17.12mingw-nosetup.zip) 
+Скачивание начнется автоматически! 
 
 - версию, *требующую права администратора* [codeblocks-17.12mingw-setup.exe](http://sourceforge.net/projects/codeblocks/files/Binaries/17.12/Windows/codeblocks-17.12mingw-setup.exe)
+Скачивание начнется автоматически! 
 
-В Mac OS лучше использовать консоль с компилятором gcc/clang и ваш любимый текстовый редактор ;^)
+В MacOS/Linux лучше использовать консоль с компилятором gcc/clang и ваш любимый текстовый редактор ;^)
 
 В качестве стандарта языка Си используем [c90](http://scc-forge.lancaster.ac.uk/open/char/versions/std-c90).
 
@@ -23,9 +25,9 @@
 
 - [Программирование: введение в профессию. II: низкоуровневое программирование (стр. 190-413 и 369 про оформление кода)](http://www.stolyarov.info/books/pdf/progintro_vol2.pdf)
 
-- [Стандарт K&R (1978 г.) в качестве справочника](http://givi.olnd.ru/kr/)
+- [Учебник "Дейтел про Си"](https://drive.google.com/drive/folders/1R6-JoO3Ws9UGanLNGD8RgjLj-ZZn5mtw?usp=sharing)
 
-- [Дейтел про Си](https://drive.google.com/drive/folders/1R6-JoO3Ws9UGanLNGD8RgjLj-ZZn5mtw?usp=sharing)
+- [Стандарт K&R (1978 г.) - только в качестве справочника](http://givi.olnd.ru/kr/)
 
 - [шпаргалка по С - весь синтаксис](http://dfedorov.spb.ru/c/CRefCard.v2.2.pdf)
 
