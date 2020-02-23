@@ -10,7 +10,7 @@ int main()
    counter = 1;
 
    /* processing phase */
-   while(counter <= 10) {
+   while(counter <= 5){
       printf("Enter grade: ");
 
       n = scanf("%d", &grade);
@@ -23,7 +23,7 @@ int main()
    }
 
    /* termination phase */
-   average = total / 10;
+   average = total / 5;
    printf("Class average is %d\n", average);
 
    return 0;   /* indicate program ended successfully */

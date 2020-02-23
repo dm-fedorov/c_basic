@@ -2,40 +2,35 @@
 
 int main()
 {
-   double average;              /* new data type */
-   int counter, grade, total;
+   int counter, grade, total, average, num;
    int n;
 
    /* initialization phase */
    total = 0;
-   counter = 0;
+   counter = 1;
 
-   /* processing phase */
-   printf("Enter grade, -1 to end: ");
-   n = scanf("%d", &grade);
-   if(n != 1) {
-       printf("Error: wrong input.\n");
-       return 1;
+   printf("Enter num of counter: ");
+   n = scanf("%d", &num);
+   if(n != 1){
+      return 1; /* error */
    }
 
-   while(grade != -1) {
-      total += grade;
-      counter += 1;
-      printf("Enter grade, -1 to end: ");
+   /* processing phase */
+   while(counter <= num){
+      printf("Enter grade: ");
+
       n = scanf("%d", &grade);
-      if(n != 1) {
-          printf("Error: wrong input.\n");
-          return 1;
+      if(n != 1){
+         return 1; /* error */
       }
+
+      total = total + grade; /* total += grade; */
+      counter = counter + 1; /* counter++; */
    }
 
    /* termination phase */
-   if(counter != 0) {
-      average = (double) total / counter;
-      printf("Class average is %.2f\n", average);
-   }
-   else
-      printf("No grades were entered\n");
+   average = total / num;
+   printf("Class average is %d\n", average);
 
    return 0;   /* indicate program ended successfully */
 }

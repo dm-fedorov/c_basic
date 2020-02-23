@@ -7,7 +7,7 @@ int main()
 
    while(counter <= 10) { /* iteration condition */
       printf("%d\n", counter);
-      ++counter; /* increment */
+      counter = counter + 1; /* counter++; */
    }
 
    return 0;
