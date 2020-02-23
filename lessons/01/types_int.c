@@ -1,8 +1,10 @@
 #include <stdio.h>
-#include <limits.h> /* http://scc-forge.lancaster.ac.uk/open/char/types/ints */
+#include <limits.h>
 
 int main()
 {
+  /* http://scc-forge.lancaster.ac.uk/open/char/types/ints */
+
   printf("int %ld byte\n", sizeof(int));
   printf("%d\n", INT_MIN);
   printf("%d\n", INT_MAX);

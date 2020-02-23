@@ -11,7 +11,7 @@ int main()
         return 1; /* exit with error */
     }
 
-    printf("I thought you were older! You are %d years old!\n", age+2);
+    printf("I thought you were older! You are %d years old!\n", age + 2);
     printf("Bye!\n");
 
     return 0;
