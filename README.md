@@ -17,7 +17,7 @@
 [Инструкция по созданию консольного проекта на языке С](http://dfedorov.spb.ru/codeblock.pdf)
 
 ## Основные материалы для изучения языка Си
-- [Курс молодого бойца от МФТИ = видео + текст](http://cs.mipt.ru/c_intro) или [только видео](https://www.youtube.com/playlist?list=PLRDzFCPr95fLjzcv6nNdjMu_9RcZgIM9U)
+- [Видео курс молодого бойца](https://www.youtube.com/playlist?list=PLRDzFCPr95fLjzcv6nNdjMu_9RcZgIM9U)
 
 **must read**
 
