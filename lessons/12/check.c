@@ -7,13 +7,14 @@ int main()
 
   n = scanf("%d", &a);
   if(n != 1){
+    printf("Input error!\n");
     return 1;
   }
 
   if(a % 2 == 0)
-    printf("even\n");
+    printf("Even\n");
   else
-    printf("odd\n");
+    printf("Odd\n");
 
   return 0;
 }

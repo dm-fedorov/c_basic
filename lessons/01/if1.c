@@ -5,7 +5,7 @@ int main()
    int num1, num2;
    int n;
 
-   printf("Enter two integers: \n");   
+   printf("Enter two integers: \n");
 
    n = scanf("%d %d", &num1, &num2);   /* read two integers */
    if(n != 2) {

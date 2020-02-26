@@ -5,7 +5,7 @@ int main()
 {
   /* http://scc-forge.lancaster.ac.uk/open/char/types/ints */
 
-  printf("char: %ld byte\n", sizeof(char)); /* определяем размер в байтах */
+  printf("char: %ld byte\n", sizeof(char)); /* определяем размер в байтах как long int */
 
   printf("%d\n", CHAR_MIN);
   printf("%d\n", CHAR_MAX);

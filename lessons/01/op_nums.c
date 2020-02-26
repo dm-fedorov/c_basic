@@ -12,6 +12,7 @@ int main()
   printf("%d - %d: %d\n", a, b, a - b);
   printf("%d * %d: %d\n", a, b, a * b);
   printf("%d / %d: %d\n", a, b, a / b);
+  printf("%f / %f: %f\n", (double)a, (double)b, (double)a / (double)b);
   printf("%d %% %d: %d\n", a, b, a % b);
 
   c = 4.34;

@@ -9,6 +9,7 @@ int main()
   printf("Enter a radius: ");
   n = scanf("%lf", &r);
   if(n != 1){
+    printf("Input error!\n");
     return 1;
   }
 

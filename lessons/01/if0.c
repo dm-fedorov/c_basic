@@ -6,7 +6,7 @@ int main()
    a = 5;
    b = 7;
 
-   printf("a > b => %d a == b => %d a < b => %d\n", a > b, a == b, a < b);
+   printf("a > b: %d\na == b: %d\na < b: %d\n", a > b, a == b, a < b);
 
    if(a > b)
       printf("a > b\n");
