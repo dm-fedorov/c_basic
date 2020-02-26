@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/* определение функции */
 int is_even(int x)
 {
   if(x % 2 == 0)
