@@ -6,7 +6,7 @@ int main()
    int total = 0;
 
    while(counter <= 10){
-      total = total + counter; /* total += grade; */
+      total = total + counter; /* total += counter; */
       counter = counter + 1; /* counter++; */
    }
 
