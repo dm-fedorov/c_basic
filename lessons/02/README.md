@@ -7,10 +7,10 @@
 2. Напишите программу, которая находит наименьшее из нескольких целых чисел.
 Первое считанное значение определяет количество оставшихся значений.
 
-<img src="https://raw.githubusercontent.com/dm-fedorov/c_basic/master/pic/pic1.jpg" height="300px" width="400px" >
+<img src="https://raw.githubusercontent.com/dm-fedorov/c_basic/master/pic/pic1.jpg" height="350px" width="400px" >
 
-<img src="https://raw.githubusercontent.com/dm-fedorov/c_basic/master/pic/pic2.jpg" height="300px" width="400px" >
+<img src="https://raw.githubusercontent.com/dm-fedorov/c_basic/master/pic/pic2.jpg" height="350px" width="400px" >
 
-<img src="https://raw.githubusercontent.com/dm-fedorov/c_basic/master/pic/pic3.jpg" height="300px" width="400px" >
+<img src="https://raw.githubusercontent.com/dm-fedorov/c_basic/master/pic/pic3.jpg" height="350px" width="400px" >
 
-<img src="https://raw.githubusercontent.com/dm-fedorov/c_basic/master/pic/pic4.jpg" height="300px" width="400px" >
+<img src="https://raw.githubusercontent.com/dm-fedorov/c_basic/master/pic/pic4.jpg" height="350px" width="400px" >
