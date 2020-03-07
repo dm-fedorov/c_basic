@@ -8,7 +8,7 @@ int main()
   int i;    /* счетчик */
 
   for(i = 0; i < sizeof(a)/sizeof(int); i++){
-    printf("%d\n", a[i]);
+    printf("a[%d] = %d\n", i, a[i]);
   }
 
   return 0;
