@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main()
+{
 	int i;
 
 	char char_array[5] = {'a', 'b', 'c', 'd', 'e'};
@@ -9,16 +10,16 @@ int main() {
 	char *char_pointer;
 	int *int_pointer;
 
-	char_pointer = int_array; // The char_pointer and int_pointer now
-	int_pointer = char_array; // point to incompatable data types
+	char_pointer = int_array;
+	int_pointer = char_array;
 
-	for(i=0; i < 5; i++) { // iterate through the int array with the int_pointer
+	for(i=0; i < 5; i++){
 		printf("[integer pointer] points to %p, which contains the char '%c'\n",
             int_pointer, *int_pointer);
 		int_pointer = int_pointer + 1;
 	}
-	
-	for(i=0; i < 5; i++) { // iterate through the char array with the char_pointer
+
+	for(i=0; i < 5; i++){ 
 		printf("[char pointer] points to %p, which contains the integer %d\n",
             char_pointer, *char_pointer);
 		char_pointer = char_pointer + 1;

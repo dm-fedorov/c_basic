@@ -12,15 +12,17 @@ int main() {
 	char_pointer = char_array;
 	int_pointer = int_array;
 
-	for(i=0; i < 5; i++) { // iterate through the int array with the int_pointer
-		printf("[integer pointer] points to %p, which contains the integer %d\n", 
+	for(i=0; i < 5; i++) {
+		printf("[integer pointer] points to %p, which contains the integer %d\n",
             int_pointer, *int_pointer);
 		int_pointer = int_pointer + 1;
 	}
-	
-	for(i=0; i < 5; i++) { // iterate through the char array with the char_pointer
-		printf("[char pointer] points to %p, which contains the char '%c'\n", 
+
+	for(i=0; i < 5; i++) {
+		printf("[char pointer] points to %p, which contains the char '%c'\n",
             char_pointer, *char_pointer);
 		char_pointer = char_pointer + 1;
 	}
+
+	return 0;
 }
