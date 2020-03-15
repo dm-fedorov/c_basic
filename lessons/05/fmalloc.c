@@ -2,25 +2,25 @@
 #include <math.h>
 #include <stdlib.h> /* malloc(), free() */
 
-int main(){
-    
-    /* 
-       void *malloc(int size); 
-       void free(void *p);  
-    */
+int main()
+{
+  /*
+  void *malloc(int size);
+  void free(void *p);
+  */
 
-    int i;	
-    double *k;
+  int i;
+  double *k;
 
-    k = malloc(360*sizeof(double));
+  k = malloc(360*sizeof(double));
 
-    for (i = 0; i < 360; i++)
-        k[i] = sin((2*M_PI/360.0) * (double)i);
-    
-    for (i = 0; i < 10; i++)
-	printf("%fl ", k[i]);
+  for (i = 0; i < 360; i++)
+      k[i] = sin((2*3.1415/360.0) * (double)i);
 
-    free(k);
+  for (i = 0; i < 10; i++)
+    printf("%fl ", k[i]);
 
-    return 0;
+  free(k);
+
+  return 0;
 }

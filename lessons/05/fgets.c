@@ -1,16 +1,16 @@
 #include <stdio.h>
 
-int main(){
-
+int main()
+{
   char food[5];
 
   printf("Enter food:");
 
-  // gets();
-
+  /* gets(); */
 
   fgets(food, sizeof(food), stdin);
 
   puts(food);
 
+  return 0;
 }
