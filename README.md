@@ -19,6 +19,8 @@
 ## Основные материалы для изучения языка Си
 - [Видео курс молодого бойца](https://www.youtube.com/playlist?list=PLRDzFCPr95fLjzcv6nNdjMu_9RcZgIM9U)
 
+- [видео + исходный текст](http://cs.mipt.ru/c_intro/)
+
 **must read**
 
 - [Программирование: введение в профессию. Том 1: азы программирования](http://www.stolyarov.info/books/pdf/progintro_vol1.pdf)
