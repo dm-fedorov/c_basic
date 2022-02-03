@@ -2,11 +2,6 @@
 
 **Работаем в Code::Blocks**
 
-Если в ОС Windows не установлено, то скачиваем и устанавливаем:
-
-- версию, *требующую права администратора* [codeblocks-setup.exe](https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03-setup.exe/download)
-Скачивание начнется автоматически!
-
 Все версии [тут](http://www.codeblocks.org/downloads/binaries/)
 
 В MacOS/Linux лучше использовать консоль с компилятором gcc/clang и ваш любимый текстовый редактор ;^)
