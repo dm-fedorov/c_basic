@@ -22,9 +22,7 @@
 
 **must read**
 
-- [Программирование: введение в профессию. Том 1: азы программирования](http://www.stolyarov.info/books/pdf/progintro_vol1.pdf)
-
-- [Программирование: введение в профессию. II: низкоуровневое программирование (стр. 190-413 и 369 про оформление кода)](http://www.stolyarov.info/books/pdf/progintro_vol2.pdf)
+- [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro/dmk)
 
 - [Стандарт K&R (1978 г.) - только в качестве справочника](http://givi.olnd.ru/kr/)
 
