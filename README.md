@@ -4,13 +4,10 @@
 
 Если в ОС Windows не установлено, то скачиваем и устанавливаем:
 
-- версию, *не требующую прав администратора*  [codeblocks-17.12mingw-nosetup.zip](http://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03-setup-nonadmin.exe) 
-Скачивание начнется автоматически! 
-
-- версию, *требующую права администратора* [codeblocks-17.12mingw-setup.exe](http://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03-setup.exe)
+- версию, *требующую права администратора* [codeblocks-setup.exe](https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03-setup.exe/download)
 Скачивание начнется автоматически!
 
-Все версии [тут](http://www.codeblocks.org/downloads/binaries)
+Все версии [тут](http://www.codeblocks.org/downloads/binaries/)
 
 В MacOS/Linux лучше использовать консоль с компилятором gcc/clang и ваш любимый текстовый редактор ;^)
 
