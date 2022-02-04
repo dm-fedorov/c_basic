@@ -21,6 +21,8 @@
 
 - [Стандарт K&R (1978 г.) - только в качестве справочника](http://givi.olnd.ru/kr/)
 
+- [История разработки языка C](http://givi.olnd.ru/chist/index.html)
+
 - [шпаргалка по С - весь синтаксис](http://dfedorov.spb.ru/c/CRefCard.v2.2.pdf)
 
 - [Как сделать классный Python-пакет](https://antonz.ru/packaging/)
